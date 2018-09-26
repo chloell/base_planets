@@ -1,4 +1,5 @@
 practice/
 *.bak
 *.dat
-*.out
+!results/a.out
+results/
